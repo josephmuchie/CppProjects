@@ -23,6 +23,25 @@ public:
     }
 };
 
+void calculateBranchSums(BinaryTree *node, int runningSum, vector<int> &sums) {
+    if(node == nullptr)
+        return;
+    
+    int newRunningSum = runningSum + node->value;
+    if(node->left == nullptr && node->right == nullptr){
+        sums.push_back(newRunningSum);
+        return;
+    }
+    
+    calculateBranchSums(node->left, newRunningSum, sums);
+    calculateBranchSums(node->right, newRunningSum, sums);
+}
+vector<int> branchSums(BinaryTree *root) {
+    vector<int> sums;
+    calculateBranchSums(root, 0, sums);
+    return sums;
+}
+
 
 int main(int argc, const char * argv[]) {
     // insert code here...
@@ -31,7 +50,7 @@ int main(int argc, const char * argv[]) {
     root->right = new BinaryTree(3);
     root->left->left = new BinaryTree(4);
     root->left->right = new BinaryTree(5);
-    //branchSums(root);
+    branchSums(root);
     
     return 0;
 }
