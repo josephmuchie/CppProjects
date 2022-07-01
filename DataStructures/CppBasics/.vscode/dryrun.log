@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/CppBasics'
+clang++ --std=c++17 -c basics.cpp
+clang++ basics.o -o output 
+make: Leaving directory `/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/CppBasics'
+ 
