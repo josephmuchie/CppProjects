@@ -10,7 +10,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Fri Jul  1 14:02:00 2022
+# Make data base, printed on Tue Jul  5 17:56:23 2022
 
 # Variables
 
@@ -21,8 +21,8 @@ make: *** No rule to make target `all'.  Stop.
 # environment
 VSCODE_LOG_NATIVE = false
 # automatic
-?D = $(patsubst %/,%,$(dir $?))
  
+?D = $(patsubst %/,%,$(dir $?))
 # makefile (from `Makefile', line 3)
 CPPFLAGS = --std=c++17
 # environment
@@ -50,13 +50,13 @@ VSCODE_VERBOSE_LOGGING = true
 # environment
 __CFBundleIdentifier = com.microsoft.VSCode
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /var/folders/l7/mysp22fn5rb8tmn4vx02s7b40000gn/T/vscode-ipc-975b5008-8274-41dc-b2f5-fce696ff08f9.sock
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/l7/mysp22fn5rb8tmn4vx02s7b40000gn/T/vscode-ipc-8c0e4484-37c8-449f-b334-6d0110e9416c.sock
 # environment
 VSCODE_CWD = /
 # environment
 NO_PROXY = 127.0.0.1
 # environment
-LaunchInstanceID = FCAF047C-B568-42E4-B31D-9E83DE1D7DFE
+LaunchInstanceID = 9F9BCE66-037B-4399-8D70-7C79ECD1F748
 # environment
 VSCODE_LOG_STACK = false
 # environment
@@ -64,7 +64,7 @@ ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.JTfya0jT84/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.UTEevMqJV0/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -111,6 +111,7 @@ USER = josephmuchengeti
 %D = $(patsubst %/,%,$(dir $%))
 # default
 MAKE_COMMAND := /Applications/Xcode.app/Contents/Developer/usr/bin/make
+ 
 # default
 .VARIABLES := 
 # environment
@@ -158,8 +159,7 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
- 
-VSCODE_PID = 547
+VSCODE_PID = 602
 # variable set hash-table stats:
 # Load=72/1024=7%, Rehash=0, Collisions=3/97=3%
 
@@ -169,9 +169,9 @@ VSCODE_PID = 547
 
 # Directories
 
-# . (device 16777220, inode 77996647): 7 files, no impossibilities.
+# . (device 16777221, inode 78995587): 8 files, no impossibilities.
 
-# 7 files, no impossibilities in 1 directories.
+# 8 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -193,6 +193,7 @@ all:
 #  Modification time never checked.
 #  File has not been updated.
 
+ 
 basics.o: basics.cpp
 #  Implicit rule search has not been done.
 #  Modification time never checked.
@@ -210,7 +211,7 @@ basics.o: basics.cpp
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-01 14:01:58
+#  Last modified 2022-07-03 21:16:32
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -258,6 +259,6 @@ output: basics.o
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Fri Jul  1 14:02:00 2022
+# Finished Make data base on Tue Jul  5 17:56:23 2022
 
  

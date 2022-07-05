@@ -9,8 +9,19 @@
 #include <iostream>
 #include <cstdint>
 #include <cassert>
+#include <iterator>
+#include <vector>
+#include <string>
+#include <iterator>
+#include <array>
 
 using namespace std;
+
+template<typename T>
+void Print(T value)
+{
+    cout<< value << endl;
+}
 
 struct DateStruct
 {
@@ -53,28 +64,39 @@ std::int64_t powint(int base, int exp)
     return result;
 }
 
+void print_container(const std::vector<int>& c)
+{
+    for (int i : c) {
+        std::cout << i << " ";
+    }
+    std::cout << '\n';
+}
+
 int main()
 {
-    int array[4]{4,3,5};
+    string arr[]{"Plumtree","Bulawayo","Mt Pleasant","Matshobana", "Luveve"};
+    int arr_length = sizeof(arr)/sizeof(arr[0]);
+
+    std::vector<string> Cities;
+    Cities.push_back("Mutoko");
+    Cities.push_back("Harare");
+
+    for(int i = 0; i < arr_length;  ++i){
+        Cities.push_back(arr[i]);
+    }
+    
+    Cities.erase(Cities.begin()+2);
+
     cout<< powint(7, 12) << " peoplesss" <<endl;
 
-    DateStruct today;
-    DateClass m_today;
+    std::cout << "Cities are {";
+    for(auto n : Cities) {
+        std::cout << n << ", ";
+    }
+    std::cout << "}; \n";
 
-
-    today.day = 28;
-    m_today.m_day = 24;
-
-    today.month = 06;
-    m_today.m_month = 06;
-
-    today.year = 2022;
-    m_today.m_year = 2022;
-
-
-    print(today);
-    m_today.print();
-    cout<<array[1] <<endl;
-
+    char myString[]{"Muchie"};
+    const int length{ static_cast<int>(std::size(myString))};
+    Print(myString);
     return 0;
 }
