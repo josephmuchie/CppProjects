@@ -87,7 +87,7 @@ int main()
     
     Cities.erase(Cities.begin()+2);
 
-    cout<< powint(7, 12) << " peoplesss" <<endl;
+    cout<< powint(7, 12) << " people" <<endl;
 
     std::cout << "Cities are {";
     for(auto n : Cities) {
