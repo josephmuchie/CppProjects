@@ -1,13 +1,13 @@
 CXX = clang++
 RM = rm -f
 CPPFLAGS = --std=c++17
-objects = basics.o
+objects = maths.o
 
 output: $(objects)
 	$(CXX) $(objects) -o output 
 
-basics.o: basics.cpp
-	$(CXX) $(CPPFLAGS) -c basics.cpp
+maths.o: maths.cpp
+	$(CXX) $(CPPFLAGS) -c maths.cpp
 
 .PHONY: clean
 clean:
