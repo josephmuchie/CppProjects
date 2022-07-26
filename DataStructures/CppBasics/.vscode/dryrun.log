@@ -1,6 +1,5 @@
 make --dry-run --keep-going --print-directory
 make: Entering directory `/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/CppBasics'
-clang++ --std=c++17 -c maths.cpp
-clang++ maths.o -o output 
+make: `output' is up to date.
 make: Leaving directory `/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/CppBasics'
  
