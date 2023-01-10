@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6F510B79BF9FC29D5F91F1FBC2CC1DE797B383C1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6F510B79BF9FC29D5F91F1FBC2CC1DE797B383C1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7BA9BDFB-3F31-4A62-B7BD-CBA4A47DE4B9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6F510B79BF9FC29D5F91F1FBC2CC1DE797B383C1" : "CppProjects\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DataStructures",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DataStructures\/DataStructures.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/josephmuchie\/CppProjects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F510B79BF9FC29D5F91F1FBC2CC1DE797B383C1"
+    }
+  ]
+}

@@ -3,5 +3,12 @@
     "files.associations": {
         "iosfwd": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/CppBasics",
+            "binaryPath": "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/CppBasics/output",
+            "binaryArgs": []
+        }
+    ]
 }

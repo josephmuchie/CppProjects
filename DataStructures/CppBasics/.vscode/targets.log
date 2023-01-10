@@ -10,7 +10,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Tue Jul 26 15:51:05 2022
+# Make data base, printed on Thu Jan  5 20:40:02 2023
 
 # Variables
 
@@ -20,11 +20,11 @@ make: *** No rule to make target `all'.  Stop.
 ?F = $(notdir $?)
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
- 
 # makefile (from `Makefile', line 3)
+ 
 CPPFLAGS = --std=c++17
 # environment
-PLATFORMIO_IDE = 2.5.0
+PLATFORMIO_IDE = 2.5.5
 # automatic
 @D = $(patsubst %/,%,$(dir $@))
 # automatic
@@ -40,7 +40,7 @@ VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupp
 # environment
 _ = /usr/bin/make
 # makefile (from `Makefile', line 4)
-objects = pointers.o
+objects = singly.o
 # makefile (from `Makefile', line 1)
 MAKEFILE_LIST :=  Makefile
 # environment
@@ -54,7 +54,7 @@ ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.DCJTVg98qT/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.pXAFTsVET0/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -68,27 +68,25 @@ HOME = /Users/josephmuchengeti
 # default
 MAKEFILEPATH := /Applications/Xcode.app/Contents/Developer/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/josephmuchengeti/Library/Application Support/Code/CachedData/3b889b090b5ad5793f524b5d1d39fda662b96a2a
+VSCODE_CODE_CACHE_PATH = /Users/josephmuchengeti/Library/Application Support/Code/CachedData/e8a3071ea4344d9d48ef8a4df2c097372b0c5161
 # environment
 LOGNAME = josephmuchengeti
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # automatic
 ^D = $(patsubst %/,%,$(dir $^))
 # environment
-PLATFORMIO_PATH = /Users/josephmuchengeti/.platformio/penv/bin:/Users/josephmuchengeti/.platformio/penv:/Users/josephmuchengeti/.platformio/python3/bin:/usr/local/bin:/usr/local/avr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands
-# environment
-COLORTERM = truecolor
+PLATFORMIO_PATH = /Users/josephmuchengeti/.platformio/python3/bin:/usr/local/bin:/usr/local/avr/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands
 # default
 MAKE = $(MAKE_COMMAND)
 # default
 MAKECMDGOALS := all
 # environment
-PATH = /usr/local/bin:/usr/local/avr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands
+PATH = /usr/local/bin:/usr/local/avr/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands
 # environment
-SHLVL = 2
+SHLVL = 1
 # environment
 XPC_FLAGS = 0x0
 # default
@@ -101,8 +99,6 @@ USER = josephmuchengeti
 %D = $(patsubst %/,%,$(dir $%))
 # default
 MAKE_COMMAND := /Applications/Xcode.app/Contents/Developer/usr/bin/make
-# environment
-TERM_PROGRAM = vscode
 # default
 .VARIABLES := 
 # environment
@@ -110,7 +106,7 @@ TMPDIR = /var/folders/l7/mysp22fn5rb8tmn4vx02s7b40000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/josephmuchengeti/Library/Application Support/Code/1.69.2-main.sock
+VSCODE_IPC_HOOK = /Users/josephmuchengeti/Library/Application Support/Code/1.74.2-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -120,9 +116,7 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-TERM_PROGRAM_VERSION = 1.69.2
-# environment
-XPC_SERVICE_NAME = 0
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.92687908.92687914
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
 # automatic
@@ -138,7 +132,6 @@ MAKEFILES :=
 # environment
 PLATFORMIO_CALLER = vscode
 # makefile (from `Makefile', line 1)
- 
 CXX = clang++
 # environment
 LC_ALL = C
@@ -153,11 +146,10 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-TERM = xterm-256color
-# environment
-VSCODE_PID = 6465
+VSCODE_PID = 1938
 # variable set hash-table stats:
-# Load=70/1024=7%, Rehash=0, Collisions=3/95=3%
+ 
+# Load=66/1024=6%, Rehash=0, Collisions=3/91=3%
 
 # Pattern-specific Variable Values
 
@@ -165,9 +157,9 @@ VSCODE_PID = 6465
 
 # Directories
 
-# . (device 16777221, inode 78995587): 13 files, no impossibilities.
+# . (device 16777223, inode 78995587): 21 files, no impossibilities.
 
-# 13 files, no impossibilities in 1 directories.
+# 21 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -189,14 +181,6 @@ all:
 #  Modification time never checked.
 #  File has not been updated.
 
-pointers.o: pointers.cpp
-#  Implicit rule search has not been done.
-#  Modification time never checked.
-#  File has not been updated.
-#  commands to execute (from `Makefile', line 10):
-	$(CXX) $(CPPFLAGS) -c pointers.cpp
-	
-
 # Not a target:
 .SUFFIXES:
 #  Implicit rule search has not been done.
@@ -206,11 +190,19 @@ pointers.o: pointers.cpp
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-26 15:50:40
+#  Last modified 2022-11-04 00:39:26
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+singly.o: singly.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 10):
+	$(CXX) $(CPPFLAGS) -c singly.cpp
+	
 
 # Not a target:
 .DEFAULT:
@@ -227,13 +219,7 @@ clean:
 	$(RM) *.o $(objects)
 	
 
-# Not a target:
-pointers.cpp:
-#  Implicit rule search has not been done.
-#  Modification time never checked.
-#  File has not been updated.
-
-output: pointers.o
+output: singly.o
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
@@ -241,12 +227,17 @@ output: pointers.o
 	$(CXX) $(objects) -o output 
 	
 
+# Not a target:
+singly.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
 # files hash-table stats:
 # Load=9/1024=1%, Rehash=0, Collisions=0/24=0%
 # VPATH Search Paths
 
 # No `vpath' search paths.
- 
 
 # No general (`VPATH' variable) search path.
 
@@ -255,6 +246,6 @@ output: pointers.o
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Tue Jul 26 15:51:05 2022
+# Finished Make data base on Thu Jan  5 20:40:02 2023
 
  

@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "d89c5e16ae8f5ac3ede7145c6dd898509dc1232e59cb44fbd21b33ba1dea9893"
+    }
+  ],
+  "containerPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DataStructures.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DerivedData/DataStructures/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DerivedData/DataStructures/Build/Products",
+      "derivedDataPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DerivedData/DataStructures/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DerivedData/DataStructures/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DerivedData/DataStructures/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

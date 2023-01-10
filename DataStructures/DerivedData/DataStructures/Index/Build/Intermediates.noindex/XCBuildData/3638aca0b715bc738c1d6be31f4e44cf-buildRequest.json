@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "d89c5e16ae8f5ac3ede7145c6dd898509dc1232e59cb44fbd21b33ba1dea9893"
+    }
+  ],
+  "containerPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DataStructures.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DerivedData/DataStructures/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DerivedData/DataStructures/Index/Build/Products",
+      "derivedDataPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DerivedData/DataStructures/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DerivedData/DataStructures/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DerivedData/DataStructures/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/DataStructures/DerivedData/DataStructures/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
