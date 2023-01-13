@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6F510B79BF9FC29D5F91F1FBC2CC1DE797B383C1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6F510B79BF9FC29D5F91F1FBC2CC1DE797B383C1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "26E3DBBB-C63B-414E-AEA2-94B86F2E9C94",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6F510B79BF9FC29D5F91F1FBC2CC1DE797B383C1" : "CppProjects\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OpenGL GameofLife",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OpenGL GameofLife\/OpenGL GameofLife.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/josephmuchie\/CppProjects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F510B79BF9FC29D5F91F1FBC2CC1DE797B383C1"
+    }
+  ]
+}

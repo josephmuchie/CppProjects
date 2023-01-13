@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+SFML Game of Life in SFML Game of Life, no dependencies

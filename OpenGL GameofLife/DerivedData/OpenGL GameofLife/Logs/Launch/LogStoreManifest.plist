@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3F8B96FB-5E60-4709-A3DF-2E1D918616FB</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>5CE5998D-0A0D-4DEF-AA4A-CD96372BCF05</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-OpenGL GameofLife-2023.01.06_03-17-38-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenGL GameofLife project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenGL GameofLife</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run OpenGL GameofLife</string>
+			<key>timeStartedRecording</key>
+			<real>694664258.94244897</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run OpenGL GameofLife</string>
+			<key>uniqueIdentifier</key>
+			<string>3F8B96FB-5E60-4709-A3DF-2E1D918616FB</string>
+		</dict>
+		<key>43950151-1FE8-4173-8B81-CB95D4550F2A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>716BF695-24CF-4E63-AB0E-E2CA9D52AE9E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-OpenGL GameofLife-2023.01.06_03-14-18-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenGL GameofLife project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenGL GameofLife</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run OpenGL GameofLife</string>
+			<key>timeStartedRecording</key>
+			<real>694664058.82690001</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run OpenGL GameofLife</string>
+			<key>uniqueIdentifier</key>
+			<string>43950151-1FE8-4173-8B81-CB95D4550F2A</string>
+		</dict>
+		<key>51B2E1F1-3773-4D76-8A2F-B3DDD96C93DF</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A856B476-DD8F-4793-96A3-6D18E74C1704</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-OpenGL GameofLife-2023.01.06_03-20-12-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenGL GameofLife project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenGL GameofLife</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run OpenGL GameofLife</string>
+			<key>timeStartedRecording</key>
+			<real>694664412.85668397</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run OpenGL GameofLife</string>
+			<key>uniqueIdentifier</key>
+			<string>51B2E1F1-3773-4D76-8A2F-B3DDD96C93DF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

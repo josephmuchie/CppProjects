@@ -1,0 +1,3 @@
+/usr/src/crowapp/build/CMakeFiles/rebuild_cache.dir
+/usr/src/crowapp/build/CMakeFiles/crowapp.dir
+/usr/src/crowapp/build/CMakeFiles/edit_cache.dir

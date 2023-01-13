@@ -1,0 +1,56 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "23e174707a051e8ebf6cc794f55370990b80fa8e03568fcc8dc29b4e359e67d7"
+    }
+  ],
+  "containerPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/SFML Game of Life/SFML Game of Life.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/SFML Game of Life/DerivedData/SFML Game of Life/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/SFML Game of Life/DerivedData/SFML Game of Life/Build/Products",
+      "derivedDataPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/SFML Game of Life/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/SFML Game of Life/DerivedData/SFML Game of Life/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/SFML Game of Life/DerivedData/SFML Game of Life/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/SFML Game of Life/DerivedData/SFML Game of Life/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

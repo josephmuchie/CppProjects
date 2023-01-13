@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>D6FE7B59-962A-4871-A4A1-701A96304BE6</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>EAB5CA92-9210-47E1-9A72-124F5343B5D4</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-SFML Game of Life-2023.01.06_01-14-04-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFML Game of Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFML Game of Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SFML Game of Life</string>
+			<key>timeStartedRecording</key>
+			<real>694656844.84679997</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run SFML Game of Life</string>
+			<key>uniqueIdentifier</key>
+			<string>D6FE7B59-962A-4871-A4A1-701A96304BE6</string>
+		</dict>
+		<key>DCFDA1F5-5648-4BCB-B3C0-E5BC56AF7CED</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>5ADB252C-CE5D-4DE1-9F30-04FA400C08FF</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-SFML Game of Life-2023.01.06_01-15-49-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFML Game of Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFML Game of Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SFML Game of Life</string>
+			<key>timeStartedRecording</key>
+			<real>694656949.37366605</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run SFML Game of Life</string>
+			<key>uniqueIdentifier</key>
+			<string>DCFDA1F5-5648-4BCB-B3C0-E5BC56AF7CED</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1177F557-F86F-4167-B31F-9A1F03452FCE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1177F557-F86F-4167-B31F-9A1F03452FCE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenGL GameofLife project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenGL GameofLife</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean OpenGL GameofLife</string>
+			<key>timeStartedRecording</key>
+			<real>694664648.25646305</real>
+			<key>timeStoppedRecording</key>
+			<real>694664648.67235005</real>
+			<key>title</key>
+			<string>Clean OpenGL GameofLife</string>
+			<key>uniqueIdentifier</key>
+			<string>1177F557-F86F-4167-B31F-9A1F03452FCE</string>
+		</dict>
+		<key>5CE5998D-0A0D-4DEF-AA4A-CD96372BCF05</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5CE5998D-0A0D-4DEF-AA4A-CD96372BCF05.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenGL GameofLife project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenGL GameofLife</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build OpenGL GameofLife</string>
+			<key>timeStartedRecording</key>
+			<real>694664258.94253695</real>
+			<key>timeStoppedRecording</key>
+			<real>694664259.61287999</real>
+			<key>title</key>
+			<string>Build OpenGL GameofLife</string>
+			<key>uniqueIdentifier</key>
+			<string>5CE5998D-0A0D-4DEF-AA4A-CD96372BCF05</string>
+		</dict>
+		<key>716BF695-24CF-4E63-AB0E-E2CA9D52AE9E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>716BF695-24CF-4E63-AB0E-E2CA9D52AE9E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenGL GameofLife project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenGL GameofLife</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build OpenGL GameofLife</string>
+			<key>timeStartedRecording</key>
+			<real>694664058.82828104</real>
+			<key>timeStoppedRecording</key>
+			<real>694664060.44114602</real>
+			<key>title</key>
+			<string>Build OpenGL GameofLife</string>
+			<key>uniqueIdentifier</key>
+			<string>716BF695-24CF-4E63-AB0E-E2CA9D52AE9E</string>
+		</dict>
+		<key>A856B476-DD8F-4793-96A3-6D18E74C1704</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A856B476-DD8F-4793-96A3-6D18E74C1704.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenGL GameofLife project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenGL GameofLife</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build OpenGL GameofLife</string>
+			<key>timeStartedRecording</key>
+			<real>694664412.85682094</real>
+			<key>timeStoppedRecording</key>
+			<real>694664415.69637203</real>
+			<key>title</key>
+			<string>Build OpenGL GameofLife</string>
+			<key>uniqueIdentifier</key>
+			<string>A856B476-DD8F-4793-96A3-6D18E74C1704</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "40db115fe6cc9c8b0fe7c782b964ac49240d85ddf3a8752cefaa6d25337968de"
+    }
+  ],
+  "containerPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/OpenGL GameofLife/OpenGL GameofLife.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/OpenGL GameofLife/DerivedData/OpenGL GameofLife/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/OpenGL GameofLife/DerivedData/OpenGL GameofLife/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/OpenGL GameofLife/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/OpenGL GameofLife/DerivedData/OpenGL GameofLife/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/OpenGL GameofLife/DerivedData/OpenGL GameofLife/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/OpenGL GameofLife/DerivedData/OpenGL GameofLife/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/josephmuchengeti/Documents/GitHub/CppProjects/OpenGL GameofLife/DerivedData/OpenGL GameofLife/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

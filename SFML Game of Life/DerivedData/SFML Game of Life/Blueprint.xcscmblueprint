@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6F510B79BF9FC29D5F91F1FBC2CC1DE797B383C1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6F510B79BF9FC29D5F91F1FBC2CC1DE797B383C1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0577F8B2-D5B2-4718-83C9-EF632838BBFA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6F510B79BF9FC29D5F91F1FBC2CC1DE797B383C1" : "CppProjects\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SFML Game of Life",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SFML Game of Life\/SFML Game of Life.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/josephmuchie\/CppProjects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F510B79BF9FC29D5F91F1FBC2CC1DE797B383C1"
+    }
+  ]
+}
